@@ -15,7 +15,7 @@ Ich entwickle seit über 20 Jahren individuelle Lösungen für Unternehmen jeder
 
 | Projekt              | Beschreibung                                         | Technologien                          |
 |----------------------|------------------------------------------------------|---------------------------------------|
-| [Sample-Monitoring]([https://github.com/thomaswrede/EFCore-SampleAPI](https://github.com/thomaswrede/Sample-Monitoring)) | Beispielhaftes Monitoring für verteilte Anwendungen mit Repository Pattern & Sqlite-Anbindung | ASP.NET Core, EF Core, REST-API     |
+| [Sample-Monitoring](https://github.com/thomaswrede/Sample-Monitoring) | Beispielhaftes Monitoring für verteilte Anwendungen mit Repository Pattern & Sqlite-Anbindung | ASP.NET Core, EF Core, REST-API     |
 | (Weitere Repos folgen...) |                                                |                                       |
 
 📫 **Kontakt:** Über [freelance.de](https://www.freelance.de/Freelancer/346893), [LinkedIn](https://www.linkedin.com/in/thomas-wrede-520a12369) oder [XING](https://www.xing.com/profile/Thomas_Wrede8)
